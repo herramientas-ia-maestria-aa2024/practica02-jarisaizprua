@@ -10,4 +10,9 @@
 4. Cambiar las configuraciones del algoritmo LogisticRegression.
 
 
+### Participantes
+SILVA LEON JOSE ISAIAS
+BENITEZ MOREJON YAHAIRA ISOLINA
+AIZPRUA BARRIOS JARIS SURYA
+
 #### Proyecto con fines educativos
